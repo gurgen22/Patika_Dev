@@ -14,6 +14,5 @@ public class Exercise {
         int ort = toplam/2;
         String sonuc = ort >= 45 ? "Geçti" : "Kaldı";
         System.out.println(sonuc);
-
     }
 }
